@@ -21,10 +21,7 @@ Data Structures:
 17 Ternary Search Tree
 18 Disjoint Sets
 
-
-
 Algorithms:
-
 1 Analysis (Time and Space Complexity Analysis).
 2 Sorting Techniques
 3 Divide and Conquer
